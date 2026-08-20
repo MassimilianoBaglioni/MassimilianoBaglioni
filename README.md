@@ -1,4 +1,3 @@
-<h1 align="center">Massimiliano Baglioni</h1>
 <h3 align="center">Software Engineer · Rust · Operating Systems · Algorithms & Data Structures · Optimization</h3>
 
 <p align="center">
