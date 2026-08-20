@@ -17,6 +17,17 @@
 
 ---
 
+### Focus Areas
+
+| Area | What I'm exploring |
+|---|---|
+| Rust | Compiler internals, lints, ownership & borrowing patterns |
+| Operating Systems | Memory allocators, concurrency, low-level networking |
+| Performance | Profiling, algorithmic complexity, optimization tradeoffs |
+| Data Structures | Practical & theoretical problem solving |
+
+---
+
 ### Tech Stack
 
 <p align="left">
@@ -31,30 +42,6 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MassimilianoBaglioni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MassimilianoBaglioni&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MassimilianoBaglioni&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### Focus Areas
-
-| Area | What I'm exploring |
-|---|---|
-| Rust | Compiler internals, lints, ownership & borrowing patterns |
-| Operating Systems | Memory allocators, concurrency, low-level networking |
-| Performance | Profiling, algorithmic complexity, optimization tradeoffs |
-| Data Structures | Practical & theoretical problem solving |
 
 ---
 
