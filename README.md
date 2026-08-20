@@ -1,24 +1,23 @@
-<h1 align="center">Hi, I'm Massimiliano 👋</h1>
-<h3 align="center">Software Engineer · Rust • Operating Systems • Algorithms & Data Structures • Optimization</h3>
+<h1 align="center">Massimiliano Baglioni</h1>
+<h3 align="center">Software Engineer · Rust · Operating Systems · Algorithms & Data Structures · Optimization</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Systems+programming+enthusiast;Rust+%2F+C+%2F+Low-level+internals;Building+things+that+need+to+be+fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Rust+%7C+Systems+Programming;Algorithms+%26+Performance+Optimization;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧭 About Me
+### About
 
-- 🎓 Master's degree in Computer Science
-- 🦀 Deep interest in **Rust**, memory-safe systems programming, and compiler tooling
-- 🖥️ Passionate about **operating systems**, low-level programming, and how software really works under the hood
-- 📊 Enjoy digging into **algorithms, data structures, and performance optimization**
-- 🌱 Contributing to open source — including [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-- 💬 Ask me about async Rust, GPU/DirectX internals, or systems architecture
+- Master's degree in Computer Science
+- Focused on **Rust**, systems-level programming, and compiler tooling
+- Interested in **operating systems**, low-level programming, and performance optimization
+- Enjoy working through **algorithms and data structures**, both practical and theoretical
+- Open source contributor to [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -35,7 +34,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MassimilianoBaglioni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -48,22 +47,20 @@
 
 ---
 
-### 🌟 Featured Focus Areas
+### Focus Areas
 
 | Area | What I'm exploring |
 |---|---|
-| 🦀 Rust | Compiler internals, lints, ownership & borrowing patterns |
-| 🧵 OS & Systems | Memory allocators, concurrency, low-level networking |
-| ⚡ Performance | Profiling, algorithmic complexity, optimization tradeoffs |
-| 🧩 Data Structures | Practical & theoretical problem solving |
+| Rust | Compiler internals, lints, ownership & borrowing patterns |
+| Operating Systems | Memory allocators, concurrency, low-level networking |
+| Performance | Profiling, algorithmic complexity, optimization tradeoffs |
+| Data Structures | Practical & theoretical problem solving |
 
 ---
 
-### 📫 Let's Connect
+### Connect
 
 <p align="left">
   <a href="https://github.com/MassimilianoBaglioni"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>Building things that need to be fast, correct, and a little bit clever.</i></p>
